@@ -1,0 +1,1 @@
+import{d as e,o,a as t}from"./index.6c5dd72b.js";const u={class:"home"},_=e({__name:"hook",setup(s){return(a,n)=>(o(),t("div",u," \u9713\u8679\u706F\u6253\u5F00 \u6CE1\u6CE1\u8D77\u6765 "))}});export{_ as default};
